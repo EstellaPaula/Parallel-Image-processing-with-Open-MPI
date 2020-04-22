@@ -1,5 +1,5 @@
 build:
-	mpicc tema.c -o tema3
+	mpicc processor.c -o processor
 
 clean:
-	rm -rf tema3
+	rm -rf processor
